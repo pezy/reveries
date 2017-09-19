@@ -11,3 +11,8 @@ body {
     border: 1px solid #ddd;
     border-width: 0 1px;
 }
+
+#wrapper { 
+    padding:5% 10%; 
+    position:relative;
+}
