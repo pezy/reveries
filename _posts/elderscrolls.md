@@ -1,3 +1,7 @@
+---
+title: Elder Scrolls 常用命令
+layout: default
+---
 # Elder Scrolls 常用命令
 
 - 穿墙 tcl
