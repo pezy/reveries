@@ -1,14 +1,32 @@
 <!DOCTYPE html>
 <html lang="zh-Hans-CN">
-    <head>
-        <meta charset="utf-8">
-        <title>{{ page.title }}</title>
-        <link type="text/css" rel="stylesheet" href="../asserts/css/typo.css">
-        <link type="text/css" rel="stylesheet" href="../asserts/css/default.css">
-    </head>
-    <body>
-        <div id="wrapper" class="typo typo-selection">
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="../asserts/css/typo.css">
+    <link rel="stylesheet" href="../asserts/css/default.css">
+    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+</head>
+
+<body>
+    <div id="wrapper" class="typo typo-selection">
         {{ content }}
-        </div>
-    </body>
+        <div id="comments"></div>
+        <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+        <script>
+            var gitment = new Gitment({
+                id: 'reveries',
+                owner: 'pezy',
+                repo: 'reveries',
+                oauth: {
+                    client_id: 'e012958ac9bb0278f9a8',
+                    client_secret: '18c5d02dfac1dad56844009f643319f29823ef63',
+                },
+            })
+            gitment.render('comments')
+        </script>
+    </div>
+</body>
+
 </html>
