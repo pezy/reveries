@@ -6,6 +6,7 @@ body {
     width: 90%;
     max-width: 960px;
     margin: 3em auto 0;
+    background: #eee;
     padding-top: 2em;
     border: 1px solid #ddd;
     border-width: 0 1px;
