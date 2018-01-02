@@ -1,20 +1,11 @@
-html {
-    background: #eee;
-}
-
-body {
+#wrapper{
     width: 90%;
     max-width: 960px;
     margin: 3em auto 0;
     background: #eee;
-    padding-top: 2em;
+    padding: 5% 10%;
     border: 1px solid #ddd;
     border-width: 0 1px;
-}
-
-#wrapper { 
-    padding:5% 10%; 
-    background: #fff;
     position:relative;
 }
 
