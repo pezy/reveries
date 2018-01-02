@@ -1,14 +1,23 @@
-#wrapper{
-    width: 90%;
-    max-width: 960px;
-    margin: 3em auto 0;
+html {
     background: #eee;
-    padding: 5% 10%;
-    border: 1px solid #ddd;
-    border-width: 0 1px;
-    position:relative;
 }
 
-.sep20 {
-    height: 20;
+body {
+    width: 90%;
+    max-width: 960px;
+    background: #fff;
+    margin: 3em auto 0;
+    padding-top: 2em;
+    border: 1px solid #ddd;
+    border-width: 0 1px;
+}
+
+#wrapper {
+    padding: 5% 10%;
+    position: relative;
+}
+
+#sep {
+    background-color: #eee;
+    height: 20px;
 }
