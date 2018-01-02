@@ -12,21 +12,24 @@
 <body>
     <div id="wrapper" class="typo typo-selection">
         {{ content }}
-        <div id="comments"></div>
-        <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-        <script>
-            var gitment = new Gitment({
-                id: '{{ page.title }}',
-                owner: 'pezy',
-                repo: 'reveries',
-                oauth: {
-                    client_id: 'e012958ac9bb0278f9a8',
-                    client_secret: '18c5d02dfac1dad56844009f643319f29823ef63',
-                },
-            })
-            gitment.render('comments')
-        </script>
     </div>
+    <div class="sep20"></div>
+    <div id="wrapper">
+        <div id="comments"></div>
+    </div>
+    <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+    <script>
+        var gitment = new Gitment({
+            id: '{{ page.title }}',
+            owner: 'pezy',
+            repo: 'reveries',
+            oauth: {
+                client_id: 'e012958ac9bb0278f9a8',
+                client_secret: '18c5d02dfac1dad56844009f643319f29823ef63',
+            },
+        })
+        gitment.render('comments')
+    </script>
 </body>
 
 </html>
