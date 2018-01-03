@@ -1,6 +1,7 @@
 ---
 title: 为什么日志很重要
 layout: default
+date: 2017-08-15
 ---
 # 为什么日志很重要
 

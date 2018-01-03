@@ -1,6 +1,7 @@
 ---
 title: Elder Scrolls 常用命令
 layout: default
+date: 2017-09-24
 ---
 # Elder Scrolls 常用命令
 

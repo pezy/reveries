@@ -1,6 +1,7 @@
 ---
 title: 上海三天
 layout: default
+date: 2017-09-05
 ---
 # 上海三天
 

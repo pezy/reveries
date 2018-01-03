@@ -1,6 +1,7 @@
 ---
 title: 午后
 layout: default
+date: 2017-08-23
 ---
 # 午后
 
