@@ -10,7 +10,9 @@ time: 2018-01-21
 ## 出发前的准备
 
 泰国入关要求必须[携带 20000 泰铢](http://www.thaiembbeij.org/thaiembbeij/cn/thai-service/visa/)（合人民币约 5000 元）。但这是抽查，就我这次去，并无一人被查。
-![image](https://user-images.githubusercontent.com/1147451/35196085-750c6bc2-ff08-11e7-87dc-f1fa0c5015b6.png)
+
+![CashRequirement](https://user-images.githubusercontent.com/1147451/35201178-3a7ccd34-ff54-11e7-8436-4e5f2bd0bf3d.png)
+
 可以在淘宝上买一张泰国的 happy 卡，确保去了之后有无限上网流量可用。
 
 ## 航班信息
@@ -28,10 +30,12 @@ time: 2018-01-21
 
 然后我们一路向南去了 Lumpini Park，这算是曼谷的城市公园吧，里面很安静，门口有很多本地的小吃（卫生不敢保证）。公园里最有意思的应该算湖边随处可见的大蜥蜴了。
 
-![image](https://user-images.githubusercontent.com/1147451/35196221-3125b9fc-ff0a-11e7-84c7-017706d74817.png)
+![LumpiniPark](https://user-images.githubusercontent.com/1147451/35201288-0c10d728-ff55-11e7-90d2-a8c0c9a02de4.png)
 
-转完该公园，天色尚早，于是又打车去了湄南河畔摩天轮处，发现摩天轮并不运行，且与门口保安沟通无效。只好沿着湄南河一直往北走，直至唐人街才回。
+转完该公园，天色尚早，于是又打车去了湄南河畔摩天轮处，发现摩天轮并不运行，且与门口保安沟通无效。只好沿着湄南河一直往北走，直至中华街才回。
 
-![image](https://user-images.githubusercontent.com/1147451/35196255-9044de22-ff0a-11e7-939b-044d0b5381ea.png)
+![ChinaTown](https://user-images.githubusercontent.com/1147451/35201291-0cefcadc-ff55-11e7-9a9b-cf3c26e68eba.png)
 
-晚上当然要去近在咫尺的 Nana Plaza，而且首先去了著名的彩虹4号，的确是大开眼界。
+回到酒店去游泳池畅游一番，此时应属泰国的凉季，但依然是夏天的感觉，可露天泳池的水是真凉，一定得注意时间，别感冒。
+
+晚上当然要去近在咫尺的 Nana Plaza，而且首先去了名气最大的 Rainbow 4，质量的确很高，算是开了眼界。不过一杯酒的时间，基本开始审美疲劳。随后又去了一家也位于二层偏 SM 风格的，更注重表演一些，算是换换口味。依然一杯啤酒，足够完整欣赏了。
