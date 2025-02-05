@@ -6,7 +6,6 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="../asserts/css/typo.css">
     <link rel="stylesheet" href="../asserts/css/default.css">
-    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
 </head>
 
 <body>
@@ -18,18 +17,20 @@
     <div id="wrapper">
         <div id="comments"></div>
     </div>
-    <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-    <script>
-        var gitment = new Gitment({
-            id: '{{ page.title }}',
-            owner: 'pezy',
-            repo: 'reveries',
-            oauth: {
-                client_id: 'Ov23liNRgsjQddKGz4HP',
-                client_secret: 'a75d735920834e0d0632cab2dd3c1349aa0fa6cd',
-            },
-        })
-        gitment.render('comments')
+    <script src="https://giscus.app/client.js"
+        data-repo="pezy/reveries"
+        data-repo-id="MDEwOlJlcG9zaXRvcnk4NzQxOTgyNw=="
+        data-category="General"
+        data-category-id="DIC_kwDOBTXrs84Cmr9L"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
     </script>
 </body>
 
